@@ -6,7 +6,7 @@ pipeline {
     }
 
     environment {
-      DOCKER_IMAGE_VERSION = '0.1.4'
+      DOCKER_IMAGE_VERSION = '0.1.5'
       EC2_TEST_PUBLIC_IP = '44.201.209.103'
       EC2_PUBLIC_IP = '44.201.134.176'
     }
